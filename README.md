@@ -1,7 +1,9 @@
 # Aplikasi Sedekah Amal Online (SAO)
 <p align="center">
-  <img src="foto/sao.png" alt="SAO Logo" width="200"/>
+  <img src="foto/sao.png" alt="SAO Logo" width="400"/>
 </p>
+
+<div align="justify">
 
 ## Tentang Proyek
 
@@ -15,7 +17,7 @@
 - **Tampilan Wakaf:** Halaman khusus untuk pengguna melakukan wakaf secara online.
 
 ### Sisi Admin
-- **Dashboard Admin:** Halaman utama untuk admin mengelola aplikasi, melihat statistik donasi, dan informasi penting lainnya.
+- **Dashboard Admin:** Halaman utama admin untuk mengelola informasi.
 - **Tabel Riwayat Donasi:** Halaman yang menampilkan daftar lengkap riwayat donasi yang dilakukan oleh pengguna.
 
 ## Cara Akses
@@ -41,4 +43,4 @@ Pastikan XAMPP atau web server Anda sudah berjalan (Apache+MySQL running). Buka 
 ### Dashboard Admin
 ![Dashboard Admin](docs/docs3.png)
 
-
+</div>
