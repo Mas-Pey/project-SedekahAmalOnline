@@ -1,5 +1,7 @@
 # Aplikasi Sedekah Amal Online (SAO)
-![SAO Logo](foto/sao.png)
+<p align="center">
+  <img src="foto/sao.png" alt="SAO Logo" width="200"/>
+</p>
 
 ## Tentang Proyek
 
