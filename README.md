@@ -25,7 +25,7 @@
 1. **Clone Repository:**
 2. **Import Database:**
 Buat database baru untuk aplikasi ini di phpMyAdmin atau sejenisnya. Import file sao.
-3. *
+3. **Running**
 Pastikan XAMPP atau web server Anda sudah berjalan (Apache+MySQL running). Buka browser dan akses http://localhost/path
 
 ## Dokumentasi
